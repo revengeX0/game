@@ -1,0 +1,10 @@
+TITLE Dark Shed
+DESCRIPTION
+You are in a dark shed, with tools surrounded all around you. You have no idea where you’re at. It smells very musty. The windows are boarded up and the door is seemingly unlocked. Underneath a window there’s a small hole, you might be able to pass through it. 
+
+There’s also the door.
+END DESCRIPTION
+COMMANDS
+HOLE:outside_shed 
+DOOR:dining_room
+END COMMANDS
